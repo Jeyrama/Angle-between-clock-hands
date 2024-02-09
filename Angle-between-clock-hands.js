@@ -26,3 +26,5 @@ function handAngle (date) {
   let angle = Math.abs(h-m)*pi2;
   return Math.min( angle, pi2-angle )
 }
+
+// or
