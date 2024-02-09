@@ -15,3 +15,6 @@ Examples:
   at 6:00 the angle is: π (180 degrees)
   at 9:00 the angle is: π/2 (90 degrees)
 */
+
+
+// Solution
